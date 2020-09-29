@@ -1,3 +1,1 @@
-# Video-Chat
-Video chat app using WebRTC with react
-"# Chit_Chat" 
+A basic Web App with React , Express, Node, Socket.io and Peer to chat 
